@@ -16,3 +16,6 @@ The analtyical tools cover the following:
 - Complex PSDs are found for the input forcing and acceleration responses.
 - Frequency response functions and coherence plots are generated for the 1D vibrational experiments.
 - Circle-fitting regression is used to estimate the frequency and damping of resonant peaks present in the FRFs.
+
+
+More detail to follow...
