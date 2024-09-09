@@ -13,4 +13,4 @@ The analtyical tools cover the following:
 - Forcing input and accelerometer output time series data is processed in the frequency domain to uncover frequency dependent behaviour.
 - Welch's method averging is used to filter out background noise power.
 - Complex PSDs are found for the input forcing and acceleration responses.
-- Frequency response functions and coherence plots are generated for 1D vibrational experiment.
+- Frequency response functions and coherence plots are generated for the 1D vibrational experiments
