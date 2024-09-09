@@ -3,7 +3,7 @@ Showcase of the central analytical tool used extensively throughout MEng project
 
 The analtyical tools cover the following:
 
-*Heart Sounds*
+*Heart Sounds Testing*
 
 - Algorithm is used to segment time-series heart sound data in to systole, diastole, S1 peak and S2 peaks.
 - A SNR calculation regime is proposed to normalise heart sound volume analysis.
